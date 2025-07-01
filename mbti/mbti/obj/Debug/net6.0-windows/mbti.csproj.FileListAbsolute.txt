@@ -1,0 +1,71 @@
+C:\Users\user\Desktop\C# 프로젝트\mbti\bin\Debug\net6.0-windows\mbti.exe
+C:\Users\user\Desktop\C# 프로젝트\mbti\bin\Debug\net6.0-windows\mbti.deps.json
+C:\Users\user\Desktop\C# 프로젝트\mbti\bin\Debug\net6.0-windows\mbti.runtimeconfig.json
+C:\Users\user\Desktop\C# 프로젝트\mbti\bin\Debug\net6.0-windows\mbti.dll
+C:\Users\user\Desktop\C# 프로젝트\mbti\bin\Debug\net6.0-windows\mbti.pdb
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\mbti.Form1.resources
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\mbti.Form2.resources
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\mbti.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\mbti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\mbti.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\mbti.AssemblyInfo.cs
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\mbti.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\mbti.dll
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\refint\mbti.dll
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\mbti.pdb
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\mbti.genruntimeconfig.cache
+C:\Users\user\Desktop\C# 프로젝트\mbti\obj\Debug\net6.0-windows\ref\mbti.dll
+C:\Users\user\Desktop\C#\mbti\bin\Debug\net6.0-windows\mbti.exe
+C:\Users\user\Desktop\C#\mbti\bin\Debug\net6.0-windows\mbti.deps.json
+C:\Users\user\Desktop\C#\mbti\bin\Debug\net6.0-windows\mbti.runtimeconfig.json
+C:\Users\user\Desktop\C#\mbti\bin\Debug\net6.0-windows\mbti.dll
+C:\Users\user\Desktop\C#\mbti\bin\Debug\net6.0-windows\mbti.pdb
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.Form1.resources
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.Form2.resources
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.Properties.Resources.resources
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.dll
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\refint\mbti.dll
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.pdb
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\mbti.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\mbti\obj\Debug\net6.0-windows\ref\mbti.dll
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\bin\Debug\net6.0-windows\mbti.exe
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\bin\Debug\net6.0-windows\mbti.deps.json
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\bin\Debug\net6.0-windows\mbti.runtimeconfig.json
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\bin\Debug\net6.0-windows\mbti.dll
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\bin\Debug\net6.0-windows\mbti.pdb
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.Form1.resources
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.Form2.resources
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.Properties.Resources.resources
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.AssemblyInfo.cs
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.dll
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\refint\mbti.dll
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.pdb
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\mbti.genruntimeconfig.cache
+C:\Users\user\Desktop\C#개인프로젝트\C#\mbti\obj\Debug\net6.0-windows\ref\mbti.dll
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\bin\Debug\net6.0-windows\mbti.exe
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\bin\Debug\net6.0-windows\mbti.deps.json
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\bin\Debug\net6.0-windows\mbti.runtimeconfig.json
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\bin\Debug\net6.0-windows\mbti.dll
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\bin\Debug\net6.0-windows\mbti.pdb
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.Form1.resources
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.Form2.resources
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.Properties.Resources.resources
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.AssemblyInfo.cs
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.dll
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\refint\mbti.dll
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.pdb
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\mbti.genruntimeconfig.cache
+C:\Users\user\Desktop\C#개인프로젝트\C#_개인프로젝트_김동희\mbti\obj\Debug\net6.0-windows\ref\mbti.dll
